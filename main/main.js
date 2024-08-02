@@ -25,4 +25,4 @@
 //  var a = "wel kom"                                                                                                             
 
 
-
+const name = prompt("ismingiz")
